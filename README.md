@@ -9,6 +9,9 @@ At the moment it's not possible to use the stable release since the mainboard is
 
 I also added manual bed leveling with mesh leveling. Worked for me and the leveling was very easy.
 
+I used Visual Studio Code with Platform IO to compile and then put the firmware.bin on the SD-Card.
+Put it into the mainboard (SKR Mini not the original!) and it updates the firmware on the next start.
+
 ﻿# Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
