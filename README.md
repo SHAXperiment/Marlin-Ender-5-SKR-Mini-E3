@@ -1,6 +1,8 @@
 # Marlin Bugfix Branch for Ender-5 (Mainboard BTT SKR Mini E3 v2.0)
 Firmware Marlin (bugfix branch) for Ender 5 with SKR-Mini-E3 v2.0 and TFT3.5
 
+<span style="color: red"> Attention: Old models of Ender 5 have 400 steps/mm at Z-Axis, my model is very new and got 800 steps/mm (they changed something at the axis) </span>
+
 Since the firmware that BIGTREETECH provides is not working for my Ender 5 (the Z-Axis moves the wrong way and the steps are incorrect for my Ender 5),
 i made my own configuration. My Ender 5 has a different Z-Axis and needs 800 steps so this is the most important change in this configuration.
 Also i added the BIGTREETECH TFT3.5, here it's important to use CR10 display and not full graphics display, since it's not supported from the firmware.
