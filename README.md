@@ -1,5 +1,6 @@
 # Marlin Bugfix Branch for Ender-5 (Mainboard BTT SKR Mini E3 v2.0)
 Firmware Marlin (bugfix branch) for Ender 5 with SKR-Mini-E3 v2.0 and TFT3.5
+
 The configuration is for 16 microsteps, later i will add a configuration with 32 microsteps.
 
 __Attention: Old models of Ender 5 have 400 steps/mm at Z-Axis, my model is very new and got 800 steps/mm (they renewed the z-axis).__
