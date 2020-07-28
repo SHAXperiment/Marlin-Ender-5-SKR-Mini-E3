@@ -1,5 +1,5 @@
-# Marlin Bugfix Branch for Ender-5 (Mainboard BTT SKR Mini E3 v2.0)
-Firmware Marlin (bugfix branch) for Ender 5 with SKR-Mini-E3 v2.0 and TFT3.5
+# Marlin Configurations for Ender-5 (Mainboard BTT SKR Mini E3 v2.0)
+Firmware Marlin (bugfix branch and stable versions) for Ender 5 with SKR-Mini-E3 v2.0 and TFT3.5
 
 The configuration is for 16 microsteps, later i will add a configuration with 32 microsteps.
 
@@ -26,9 +26,7 @@ Put it into the mainboard (SKR Mini not the original!) and it updates the firmwa
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
-## Marlin 2.0 Bugfix Branch
-
-__Not for production use. Use with caution!__
+## Marlin 2.0 
 
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
 
