@@ -18,6 +18,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
+ * Ender 5 Configuration with SKR Mini E3 v2.0 board (TMC2209) and TFT3.5
  */
 #pragma once
 
