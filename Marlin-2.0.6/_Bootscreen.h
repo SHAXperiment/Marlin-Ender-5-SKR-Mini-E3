@@ -21,13 +21,7 @@
  */
 
 /**
- * Custom Boot Screen bitmap
- *
- * Place this file in the root with your configuration files
- * and enable SHOW_CUSTOM_BOOTSCREEN in Configuration.h.
- *
- * Use the Marlin Bitmap Converter to make your own:
- * https://marlinfw.org/tools/u8glib/converter.html
+ * Ender Boot Screen Logo
  */
 
 #define CUSTOM_BOOTSCREEN_TIMEOUT 1000
