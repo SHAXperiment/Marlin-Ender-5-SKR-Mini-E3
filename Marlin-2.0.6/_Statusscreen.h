@@ -21,13 +21,7 @@
  */
 
 /**
- * Custom Status Screen bitmap
- *
- * Place this file in the root with your configuration files
- * and enable CUSTOM_STATUS_SCREEN_IMAGE in Configuration.h.
- *
- * Use the Marlin Bitmap Converter to make your own:
- * https://marlinfw.org/tools/u8glib/converter.html
+ * Ender 5 Screenlogo
  */
 
 //
